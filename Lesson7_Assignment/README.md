@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 31, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Megan Mulhall)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we were tasked with duplicating files and modified them so that they were interactive )
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (DOM is used to traversing methods of adding interactive elements)
+2. (jQuery selectors allows you to mnipulate the HTML file)
+3. (Traversing is used to move through the HTML document)
